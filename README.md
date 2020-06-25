@@ -1,4 +1,4 @@
-# SmartBrain - v2
+# Facedetec-frontEnd
 Final project for Udemy course
 
 1. Clone this repo
